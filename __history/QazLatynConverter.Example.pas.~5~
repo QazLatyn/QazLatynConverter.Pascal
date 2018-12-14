@@ -1,0 +1,44 @@
+unit QazLatynConverter.Example;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TQazLatynConverterForm = class(TForm)
+    txtLatyn: TMemo;
+    btnCyrl2Latyn: TButton;
+    txtCyrl: TMemo;
+    procedure FormCreate(Sender: TObject);
+    procedure btnCyrl2LatynClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  QazLatynConverterForm: TQazLatynConverterForm;
+
+implementation
+
+{$R *.dfm}
+
+procedure TQazLatynConverterForm.btnCyrl2LatynClick(Sender: TObject);
+var
+  cyrlText: string;
+begin
+  cyrlText := txtCyrl.Text;
+  txtLatyn.Text := cyrlText;
+  //mmo2.Text := Cyrl2Latyn(PChar(strtext));
+end;
+
+procedure TQazLatynConverterForm.FormCreate(Sender: TObject);
+begin
+       txtCyrl.Clear;
+       txtLatyn.Clear;
+end;
+
+end.

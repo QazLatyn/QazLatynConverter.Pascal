@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/14 19:58:13.000.004,=C:\Users\tuoha\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/14 20:06:15.000.836,=C:\Users\tuoha\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/14 20:07:38.000.710,C:\Users\tuoha\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\QazLatynConverter.Pascal\QazLatynConverter.Example.dfm</Transaction>
+    <Transaction>2018/12/14 20:07:38.000.710,C:\Users\tuoha\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\QazLatynConverter.Pascal\QazLatynConverter.Example.pas</Transaction>
+    <Transaction>2018/12/14 20:08:37.000.776,C:\Users\tuoha\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\tuoha\OneDrive\Documents\Embarcadero\Studio\Projects\QazLatynConverter.dproj</Transaction>
+    <Transaction>2018/12/14 20:29:35.000.955,C:\Users\tuoha\OneDrive\Documents\Embarcadero\Studio\Projects\QazLatynConverter.dproj=D:\QazLatynConverter.Pascal\QazLatynConverter.dproj</Transaction>
+    <Transaction>2018/12/14 21:24:43.000.014,=D:\QazLatynConverter.Pascal\Unit1.pas</Transaction>
+    <Transaction>2018/12/14 21:24:56.000.061,D:\QazLatynConverter.Pascal\QazLatynHelper.pas=D:\QazLatynConverter.Pascal\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

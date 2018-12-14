@@ -1,0 +1,13 @@
+﻿[txtLatyn]
+Coordinates=10,10,64,58
+Visible=True
+
+[btnCyrl2Latyn]
+Coordinates=84,10,94,58
+
+[txtCyrl]
+Coordinates=188,10,64,58
+
+[]
+Coordinates=166,78,91,36
+

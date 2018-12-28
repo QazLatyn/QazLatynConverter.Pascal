@@ -185,7 +185,11 @@ begin
       'ж':  strResult := strResult + 'j';
       'Ң':  strResult := strResult + 'Ń';
       'ң':  strResult := strResult + 'ń';
-      'ь':  strResult := strResult + '';
+      'ь':  strResult := strResult + "" ;
+      'Ь':  strResult := strResult + "" ;
+      'ъ':  strResult := strResult + "" ;
+      'Ъ':  strResult := strResult + "" ;
+      '¬':  strResult := strResult + "" ;
 
     else
       strResult := strResult + iChar;
